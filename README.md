@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## 圖片更換方式 ###作品圖片 找到images這個資料夾，將圖片替換成自己的作品即可。
+格式是：day1.jpg~day100.jpg。
+如果沒做的，會直接跳過那天，不會顯示。
 
-You can use the [editor on GitHub](https://github.com/soniabeeeee/dailyuichallenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###封面圖片 找到images這個資料夾，替換掉desktop.jpg跟mobile.jpg這兩個檔案即可。
+請注意圖片的大小與格式。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soniabeeeee/dailyuichallenge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##連結更換方式 找到資料夾下的links.json，直接更改對應的連結即可。
